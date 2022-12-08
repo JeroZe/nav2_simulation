@@ -10,4 +10,4 @@ step3:
 source /install/setup.bash
 
 step4:
-ros2 launch neor_gazebo
+ros2 launch neor_mini_foxy neor_mini_gazebo.launch.py
